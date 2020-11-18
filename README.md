@@ -47,4 +47,8 @@ sudo nano /etc/motion/motion.conf
 ```
 sudo service motion start
 ``` 
-> http://IP:8081
+
+連線
+```
+http://IP:8081
+```
